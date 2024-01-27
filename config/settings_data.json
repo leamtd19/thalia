@@ -200,12 +200,13 @@
           "1591458140141": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/2QmanZ41YEJbnOJ.webp",
               "textbox-alignment": "center",
               "textbox-vertical-alignment": "center",
               "horizontal-offset": 0,
               "vertical-offset": 0,
               "text-alignment": "center",
-              "heading": "Women collection 2021",
+              "heading": "",
               "heading_appear": "fadeInDown",
               "subheading": "Fashion Women",
               "subheading_appear": "fadeInDown",
