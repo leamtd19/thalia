@@ -218,12 +218,13 @@
           "1591458260782": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/fm7pPSAS6mgnTLf.webp",
               "textbox-alignment": "center",
               "textbox-vertical-alignment": "center",
               "horizontal-offset": 0,
               "vertical-offset": 0,
               "text-alignment": "center",
-              "heading": "Women collection 2021",
+              "heading": "",
               "heading_appear": "fadeInDown",
               "subheading": "New Arrivals",
               "subheading_appear": "fadeInDown",
